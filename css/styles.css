@@ -1,0 +1,33 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;                                                                       
+    background-color: black;
+    
+}
+
+li{
+    float: right;
+}
+li a{
+    display: block;
+    color: white;
+    padding: 16px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover{
+    color: burlywood;
+}
+body{
+    background-image: url("https://bit.ly/36ZKpa0");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
